@@ -363,7 +363,7 @@ This means it does not work with `PanResponder` but does work with things like `
 ### Bear in mind
 
 While using transform styles such as `rotateY`, `rotateX`, and others ensure the transform style `perspective` is in place.
-At this time some animations may not render on android without it. Example below.
+At this time some animations may not render on Android without it. Example below.
 
 ```javascript
 <Animated.View
