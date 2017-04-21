@@ -10,10 +10,10 @@
  * @flow
  */
 
-'use strict';
+"use strict";
 
 var ReactNativeFeatureFlags = {
-  useFiber: false,
+  useFiber: true
 };
 
 module.exports = ReactNativeFeatureFlags;
